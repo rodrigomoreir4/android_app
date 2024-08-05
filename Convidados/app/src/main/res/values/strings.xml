@@ -11,4 +11,9 @@
     <string name="menu_presets">Presentes</string>
     <string name="menu_absents">Ausentes</string>
 
+    <string name="name">Nome</string>
+    <string name="present">Presente</string>
+    <string name="absent">Ausente</string>
+    <string name="save">Salvar</string>
+
 </resources>
