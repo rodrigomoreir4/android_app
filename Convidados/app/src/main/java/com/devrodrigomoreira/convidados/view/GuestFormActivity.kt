@@ -1,13 +1,12 @@
-package com.devrodrigomoreira.convidados
+package com.devrodrigomoreira.convidados.view
 
 import android.os.Bundle
 import android.view.View
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import androidx.lifecycle.ViewModelProvider
+import com.devrodrigomoreira.convidados.R
 import com.devrodrigomoreira.convidados.databinding.ActivityGuestFormBinding
+import com.devrodrigomoreira.convidados.viewModel.GuestFormViewModel
 
 class GuestFormActivity : AppCompatActivity(), View.OnClickListener {
 

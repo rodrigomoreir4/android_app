@@ -1,4 +1,4 @@
-package com.devrodrigomoreira.convidados.ui
+package com.devrodrigomoreira.convidados.viewModel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
