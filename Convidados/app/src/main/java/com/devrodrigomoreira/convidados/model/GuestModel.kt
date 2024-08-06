@@ -1,3 +1,3 @@
-package com.devrodrigomoreira.convidados
+package com.devrodrigomoreira.convidados.model
 
 data class GuestModel(val id: Int, var name: String, var presence: Boolean)
